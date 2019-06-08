@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"BasicLinePix"},{"p":"<Unnamed>","l":"Line"},{"p":"<Unnamed>","l":"Rectangle"},{"p":"<Unnamed>","l":"Shape"}]
